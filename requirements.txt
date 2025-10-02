@@ -4,3 +4,5 @@ matplotlib
 pandas
 numpy
 pillow
+arabic-reshaper
+python-bidi
